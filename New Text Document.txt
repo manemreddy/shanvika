@@ -1,0 +1,18 @@
+Skills and experience required:
+•Require 0-2 year’s experience in Technical Support in Telephony and VOIP 
+•Should have knowledge in CTI or Voice recording products
+•Good understanding of VOICE protocols like SIP, H.323
+•Good working knowledge on any of the following: CISCO Unified contact center Enterprise (UCCE), CISCO Unified Communications Manager (CUCM), Avaya Aura Platform and Voice/Media Gateways.
+•Should have worked in PBX/ACD
+•Good knowledge of Windows operating system
+•Should have experience in installing, configuring, and supporting telephony, network, or server infrastructure
+•Should have good troubleshooting and problem solving skills
+•Should be willing to work in 24/7 shifts and weekends as well
+
+Nice to have:
+•Experience in NICE products or NICE certified Engineers
+•Certifications that match up well:  Cisco, Avaya, Nortel, Verint, Aspect
+•ITIL Certification
+
+Education:
+•BE in computers science, electronics and telecommunications or equivalent
